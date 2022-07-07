@@ -6,8 +6,8 @@ int main()
 	
 	/* declaring variables */
 	
-	unsigned short int roll_num;
-	char name[32];
+	unsigned short int roll_num = 0;
+	char name[32] = 'xxxxxx';
 	
 	/* taking user input */
 	
