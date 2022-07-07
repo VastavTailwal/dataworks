@@ -4,7 +4,7 @@
 int main()
 {
 	
-	/* declaring variables */
+	/* initialized variables */
 	
 	unsigned short int roll_num = 0;
 	char name[32] = 'xxxxxx';
